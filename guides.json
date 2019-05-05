@@ -1,0 +1,119 @@
+[
+  {
+    "categoryTitle" : "Get started",
+    "categoryName" : "get-started",
+    "categoryDescription" : "for a quick start to coding.",
+    "guides" : [
+      {
+        "guideTitle" : "Installation",
+        "guideName" : "installation"
+      },
+      {
+        "guideTitle" : "Web servers",
+        "guideName" : "web-servers"
+      },
+      {
+        "guideTitle" : "Terminology",
+        "guideName" : "terminology"
+      },
+      {
+        "guideTitle" : "Deploy to web server",
+        "guideName" : "deploy-to-web-server"
+      }
+    ]
+  },
+  {
+    "categoryTitle" : "Basics",
+    "categoryName" : "basics",
+    "categoryDescription" : "for understand how it works.",
+    "guides" : [
+      {
+        "guideTitle" : "Route",
+        "guideName" : "route"
+      },
+      {
+        "guideTitle" : "Controller",
+        "guideName" : "controller"
+      },
+      {
+        "guideTitle" : "Model",
+        "guideName" : "model"
+      },
+      {
+        "guideTitle" : "View",
+        "guideName" : "view"
+      },
+      {
+        "guideTitle" : "Library",
+        "guideName" : "library"
+      },
+      {
+        "guideTitle" : "Helper",
+        "guideName" : "helper"
+      }
+    ]
+  },
+  {
+    "categoryTitle" : "Advanced",
+    "categoryName" : "advanced",
+    "categoryDescription" : "for expand its capabilities.",
+    "guides" : [
+      {
+        "guideTitle" : "Dependencies",
+        "guideName" : "dependencies"
+      },
+      {
+        "guideTitle" : "Facades",
+        "guideName" : "facades"
+      },
+      {
+        "guideTitle" : "Middlewares",
+        "guideName" : "middlewares"
+      },
+      {
+        "guideTitle" : "The request",
+        "guideName" : "the-request"
+      },
+      {
+        "guideTitle" : "The response",
+        "guideName" : "the-response"
+      }
+
+    ]
+  },
+  {
+    "categoryTitle" : "Cookbook",
+    "categoryName" : "cookbook",
+    "categoryDescription" : "for who likes the samples.",
+    "guides" : [
+      {
+        "guideTitle" : "Setting the configuration files",
+        "guideName" : "setting-the-configuration-files"
+      },
+      {
+        "guideTitle" : "Connecting to MySQL",
+        "guideName" : "connecting-to-mysql"
+      },
+      {
+        "guideTitle" : "CRUD queries on MySQL",
+        "guideName" : "crud-queries-on-mysql"
+      },
+      {
+        "guideTitle" : "Schemes and MySQL",
+        "guideName" : "schemes-and-mysql"
+      },
+      {
+        "guideTitle" : "Using sessions with middlewares",
+        "guideName" : "using-sessions-with-middleware"
+      },
+      {
+        "guideTitle" : "Templates and asset files",
+        "guideName" : "templates-and-asset-files"
+      },
+      {
+        "guideTitle" : "Dynamic linking in template files",
+        "guideName" : "dynamic-linking-in-template-files"
+      }
+    ]
+  }
+]
